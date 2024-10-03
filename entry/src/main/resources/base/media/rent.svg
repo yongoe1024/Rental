@@ -1,0 +1,12 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Frame">
+        <rect id="Rectangle 175" x="2.5" y="2.5" width="11" height="11" rx="1.5" stroke="#666666"/>
+        <path id="Vector 26" d="M6 5L8.00199 7.04566" stroke="#666666" stroke-linecap="round" stroke-linejoin="round"/>
+        <path id="Vector 27" d="M7.98528 7.01227L10 5.00003" stroke="#666666" stroke-linecap="round"
+              stroke-linejoin="round"/>
+        <path id="Vector 28" d="M5.46643 7L10.5336 7" stroke="#666666" stroke-linecap="round" stroke-linejoin="round"/>
+        <path id="Vector 29" d="M5.11215 9.25763L10.8878 9.25763" stroke="#666666" stroke-linecap="round"
+              stroke-linejoin="round"/>
+        <path id="Vector 30" d="M8 7L8 12" stroke="#666666" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Frame">
+        <path id="Vector"
+              d="M17 2V4H20.0066C20.5552 4 21 4.44495 21 4.9934V21.0066C21 21.5552 20.5551 22 20.0066 22H3.9934C3.44476 22 3 21.5551 3 21.0066V4.9934C3 4.44476 3.44495 4 3.9934 4H7V2H17ZM7 6H5V20H19V6H17V8H7V6ZM15 4H9V6H15V4Z"
+              fill="black"/>
+        <g id="Vector_2">
+            <path d="M9 18V16H7V18H9Z" fill="#3BCDA1"/>
+            <path d="M9 15V13H7V15H9Z" fill="#3BCDA1"/>
+            <path d="M9 12V10H7V12H9Z" fill="#3BCDA1"/>
+        </g>
+    </g>
+</svg>

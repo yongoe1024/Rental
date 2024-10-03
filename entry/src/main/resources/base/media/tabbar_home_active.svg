@@ -1,0 +1,18 @@
+<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="icon-&#233;&#166;&#150;&#233;&#161;&#181;">
+        <g id="Frame">
+            <g id="Vector">
+                <path d="M11 21H14V14.9416L10 11.454L6 14.9416V21H9V17H11V21ZM23 23H5C4.44772 23 4 22.5523 4 22V14.4868C4 14.1978 4.12501 13.9229 4.34282 13.733L8 10.5443V6C8 5.44772 8.44772 5 9 5H23C23.5523 5 24 5.44772 24 6V22C24 22.5523 23.5523 23 23 23ZM18 13V15H20V13H18ZM18 17V19H20V17H18ZM18 9V11H20V9H18ZM14 9V11H16V9H14Z"
+                      fill="black"/>
+                <path d="M11 21H14V14.9416L10 11.454L6 14.9416V21H9V17H11V21ZM23 23H5C4.44772 23 4 22.5523 4 22V14.4868C4 14.1978 4.12501 13.9229 4.34282 13.733L8 10.5443V6C8 5.44772 8.44772 5 9 5H23C23.5523 5 24 5.44772 24 6V22C24 22.5523 23.5523 23 23 23ZM18 13V15H20V13H18ZM18 17V19H20V17H18ZM18 9V11H20V9H18ZM14 9V11H16V9H14Z"
+                      fill="url(#paint0_linear_29_433)"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="paint0_linear_29_433" x1="14" y1="5" x2="14" y2="23" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#53B99D"/>
+            <stop offset="1" stop-color="#36D1A1"/>
+        </linearGradient>
+    </defs>
+</svg>

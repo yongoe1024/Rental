@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "主模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "主页面"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "老G租房"
+    }
+  ]
+}

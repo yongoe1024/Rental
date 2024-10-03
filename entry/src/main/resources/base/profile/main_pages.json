@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/login/LoginPhone",
+    "pages/login/LoginCode",
+    "pages/rentRoom/RoomList",
+    "pages/rentRoom/RoomDetail",
+    "pages/rentRoom/BookRoomList"
+  ]
+}

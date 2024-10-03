@@ -1,0 +1,11 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Frame">
+        <path id="Vector"
+              d="M20 2C20.5523 2 21 2.44772 21 3V6.757L19 8.757V4H5V20H19V17.242L21 15.242V21C21 21.5523 20.5523 22 20 22H4C3.44772 22 3 21.5523 3 21V3C3 2.44772 3.44772 2 4 2H20ZM21.7782 8.80761L23.1924 10.2218L15.4142 18L13.9979 17.9979L14 16.5858L21.7782 8.80761Z"
+              fill="black"/>
+        <g id="Vector_2">
+            <path d="M13 14V12H8V14H13Z" fill="#3BCDA1"/>
+            <path d="M16 10V8H8V10H16Z" fill="#3BCDA1"/>
+        </g>
+    </g>
+</svg>
